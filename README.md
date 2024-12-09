@@ -1,16 +1,13 @@
-## Hi there 👋
+## 👋 Hello!
 
-<!--
-**lionsee77/lionsee77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 🚀 Lionel See
 
-Here are some ideas to get you started:
+Welcome to my GitHub page! I'm Lionel, a passionate developer with interests in **Machine Learning**, **Software Development**, and **FinTech**. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌟 About Me
+- 🎓 **Education**: Year 2 Business Analytics, NUS | CSIT Scholar
+- 💡 **Interests**: 
+  - Building impactful applications in **ML/AI** and **FinTech**
+  - Exploring software solutions to solve real-world problems
+- 📫 **Contact**: [lionel.see@u.nus.edu](mailto:lionel.see@u.nus.edu)
+
