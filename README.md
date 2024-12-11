@@ -4,10 +4,11 @@ Welcome to my GitHub page! I'm Lionel, a passionate developer with interests in 
 
 ### 🌟 About Me
 -  **Education**: Year 2 Business Analytics, NUS | CSIT Scholar
--  **Interests**: 
-  - Building impactful applications
-  - Exploring **ML/AI** and **FinTech** solutions to solve real-world problems
+- **Interests**:  
+    - Building impactful applications  
+    - Exploring **ML/AI** and **FinTech** solutions to solve real-world problems
 -  **Contact**: [lionel.see@u.nus.edu](mailto:lionel.see@u.nus.edu)
+[![Email](https://img.shields.io/badge/Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lionel.see@u.nus.edu) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lionel-see/)
 
 ---
 
@@ -21,7 +22,7 @@ Here are some of my personal projects:
 2. **[Habor Hackers](https://github.com/lionsee77/harborhackers)**  
    Web Application poised to improve labour productivity and engagement.
 
-3. **[Phishing Detector]**  
+3. **Phishing Detector**  
    Created a Supervised and Unsupervised Machine Learning model to detect phishing risks in a corporate context. 
 
 ---
@@ -31,7 +32,7 @@ Here are some of my personal projects:
   <p align="left"> 
     <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" /> 
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" /> 
-    <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" alt="Swift" /> 
+    <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
     <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" /> 
     <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R" /> <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel" /> 
     <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" /> 
@@ -47,10 +48,10 @@ Here are some of my personal projects:
     <img src="https://img.shields.io/badge/NLP-00897B?style=for-the-badge&logo=ai&logoColor=white" alt="NLP" /> <img src="https://img.shields.io/badge/SHAP-A0A7A8?style=for-the-badge&logo=data&logoColor=black" alt="SHAP" /> 
     <img src="https://img.shields.io/badge/Seaborn-1572B6?style=for-the-badge&logo=python&logoColor=white" alt="Seaborn" /> 
     <img src="https://img.shields.io/badge/Matlab-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" alt="Matlab" />
+    <img src="https://img.shields.io/badge/HealthKit-FF3B30?style=for-the-badge&logo=apple&logoColor=white" alt="HealthKit" />
+    <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
+    <img src="https://img.shields.io/badge/ARIMA-4A90E2?style=for-the-badge&logo=statsmodels&logoColor=white" alt="ARIMA" />
   </p>
 
 ---
 
-### 📌 Get in Touch
-[![Email](https://img.shields.io/badge/Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lionel.see@u.nus.edu)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lionel-see/)
