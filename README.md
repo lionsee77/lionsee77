@@ -8,6 +8,7 @@ Welcome to my GitHub page! I'm Lionel, a passionate developer with interests in 
     - Building impactful applications  
     - Exploring **ML/AI** and **FinTech** solutions to solve real-world problems
 -  **Contact**: [lionel.see@u.nus.edu](mailto:lionel.see@u.nus.edu)
+<br>
 [![Email](https://img.shields.io/badge/Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lionel.see@u.nus.edu) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lionel-see/)
 
 ---
@@ -39,6 +40,8 @@ Here are some of my personal projects:
     <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" /> 
     <img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React.js" /> 
     <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" /> 
+    <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
+    <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
   </p>
 - **Libraries & Frameworks**:
   <p align="left"> 
