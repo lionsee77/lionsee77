@@ -7,9 +7,10 @@ Welcome to my GitHub page! I'm Lionel, a passionate developer with interests in 
 - **Interests**:  
     - Building impactful applications  
     - Exploring **ML/AI** and **FinTech** solutions to solve real-world problems
--  **Contact**: [lionel.see@u.nus.edu](mailto:lionel.see@u.nus.edu)
-<br>
-[![Email](https://img.shields.io/badge/Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lionel.see@u.nus.edu) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lionel-see/)
+- **Contact**: [lionel.see@u.nus.edu](mailto:lionel.see@u.nus.edu)  
+  <br>
+  [![Email](https://img.shields.io/badge/Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lionel.see@u.nus.edu)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lionel-see/)
 
 ---
 
