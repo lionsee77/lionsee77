@@ -21,7 +21,7 @@ Here are some of my personal projects:
 1. **[SmartPantry](https://github.com/lionsee77/SmartPantry)**
     iOS application that generates personalised meal plans using a Retrieval-Augmented Generation (RAG) pipeline. Combines LlamaIndex for context retrieval and Pinecone as a vector store to suggest recipes based on        user cravings and real-time pantry inventory.
    
-2. **[ACE](https://github.com/lionsee77/ai-compliance-engine)**
+2. **[ACE](https://github.com/lionsee77/ai-compliance-engine)** <br>
    Deployed a REST API that detects anomalous Ethereum transactions with ~96% accuracy using ML classifiers. Automatically generates audit reports and maintains schema-level audit trails to support regulatory             compliance. Achieved Finalist (Top 5 of 88 Teams) for NUS Fintech Hackathon 2025, Northern Trust track.
    
 3. **[GymGenie](https://github.com/lionsee77/GymGenie)**  
