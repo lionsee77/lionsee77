@@ -1,13 +1,13 @@
 # Lionel See
 
-Welcome to my GitHub page! I'm Lionel, a passionate developer with interests in **Machine Learning**, **Software Development**, and **FinTech**. 
+Hi I'm Lionel, a passionate developer with interests in **Machine Learning**, **Software Development**, and **FinTech**. 
 
 ### 🌟 About Me
--  **Education**: Year 2 Business Analytics, NUS | CSIT Scholar
+-  **Education**: Business Analytics, NUS | CSIT Scholar
 - **Interests**:  
     - Building impactful applications  
     - Exploring **ML/AI** and **FinTech** solutions to solve real-world problems
-- **Contact**: [lionel.see@u.nus.edu](mailto:lionel.see@u.nus.edu)  
+- **Contact me at**: [lionel.see@u.nus.edu](mailto:lionel.see@u.nus.edu)  
   <br>
   [![Email](https://img.shields.io/badge/Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lionel.see@u.nus.edu)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lionel-see/)
@@ -18,15 +18,21 @@ Welcome to my GitHub page! I'm Lionel, a passionate developer with interests in 
 
 Here are some of my personal projects:
 
-1. **[GymGenie](https://github.com/lionsee77/GymGenie)**  
-   iOS Application that tracks workouts, steps, and nutritional intake with educational features for gym-goers.
-
-2. **[Habor Hackers](https://github.com/lionsee77/harborhackers)**  
-   Web Application poised to improve labour productivity and engagement.
-
-3. **Phishing Detector**  
-   Created a Supervised and Unsupervised Machine Learning model to detect phishing risks in a corporate context. 
-
+1. **[SmartPantry](https://github.com/lionsee77/SmartPantry)**
+    iOS application that generates personalised meal plans using a Retrieval-Augmented Generation (RAG) pipeline. Combines LlamaIndex for context retrieval and Pinecone as a vector store to suggest recipes based on        user cravings and real-time pantry inventory.
+   
+2. **[ACE](https://github.com/lionsee77/ai-compliance-engine)**
+   Deployed a REST API that detects anomalous Ethereum transactions with ~96% accuracy using ML classifiers. Automatically generates audit reports and maintains schema-level audit trails to support regulatory             compliance. Achieved Finalist (Top 5 of 88 Teams) for NUS Fintech Hackathon 2025, Northern Trust track.
+   
+3. **[GymGenie](https://github.com/lionsee77/GymGenie)**  
+    iOS fitness tracking app. Tracks workouts, step counts, and nutritional intake with user-friendly visualisations. Integrated with iOS HealthKit and Supabase for real-time data syncing and seamless user experience.
+   
+4. **[Habor Hackers](https://github.com/lionsee77/harborhackers)**  
+    Built during PSA Hackathon 2024. Designed a web-based Human Resource tool to improve employee productivity and engagement. Key features include an OpenAI-powered HR assistant, an AI upskilling recommendation           engine, and a gamified welfare task system.
+   
+5. **Phishing Detector**  
+    Developed both supervised and unsupervised ML models to identify phishing attempts within corporate environments. Applied logistic regression and clustering techniques to detect anomalies in URLs, metadata, and        textual patterns.
+   
 ---
 
 ### 🛠️ My Skill Set
