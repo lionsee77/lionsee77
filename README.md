@@ -18,7 +18,7 @@ Hi I'm Lionel, a passionate developer with interests in **Machine Learning**, **
 
 Here are some of my personal projects:
 
-1. **[SmartPantry](https://github.com/lionsee77/SmartPantry)**
+1. **[SmartPantry](https://github.com/lionsee77/SmartPantry)** <br>
     iOS application that generates personalised meal plans using a Retrieval-Augmented Generation (RAG) pipeline. Combines LlamaIndex for context retrieval and Pinecone as a vector store to suggest recipes based on        user cravings and real-time pantry inventory.
    
 2. **[ACE](https://github.com/lionsee77/ai-compliance-engine)** <br>
